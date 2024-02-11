@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Peicheng Hua 华培成
+title:Peicheng Hua
 
 # Name pronunciation (optional)
 name_pronunciation: Peicheng Hua
