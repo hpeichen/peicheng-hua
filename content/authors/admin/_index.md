@@ -21,7 +21,7 @@ role: Software Development Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Amazon
+  - name: Amazon Canada
     url: https://www.amazon.com/
 
 # Social network links
@@ -104,4 +104,4 @@ languages:
 
 ---
 
-I am currently Software Developer at Amazon Canada. I love my work, life, and my gf!
+I am currently a Software Developer at Amazon Canada. I love my work, life, and my girlfriend!
