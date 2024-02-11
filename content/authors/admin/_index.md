@@ -104,4 +104,4 @@ languages:
 
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently Software Developer at Amazon Canada. I love my work, life, and my gf!
