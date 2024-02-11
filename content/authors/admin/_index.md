@@ -104,4 +104,4 @@ languages:
 
 ---
 
-I am currently a Software Developer at Amazon Canada. I love my work, life, and my girlfriend!
+My name is Peicheng Hua. I am currently a Software Developer at Amazon Canada. I love my work, life, and my girlfriend!
