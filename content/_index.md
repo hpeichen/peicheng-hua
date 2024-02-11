@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Peicheng Hua Personal Website'
 date: 2023-10-24
 type: landing
 
