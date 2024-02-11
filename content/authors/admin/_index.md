@@ -47,9 +47,8 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Drive the architecture and design of large-scale, multi-tiered, distributed software applications, tools,
-systems and services using object-oriented design, distributed programming, Java and C/C++.
-      - Build Kinesis analytics application to publish customer usage to Amazon Cloudwatch for visibility
+      - Drive the architecture and design of large-scale, multi-tiered, distributed software applications.
+      - Build Kinesis analytics application to publish customer usage to Amazon Cloudwatch for visibility.
       - Deliver Java 11, Spring framework 5 and Coral 1.1 migration for services of Elastic Block Storage.
   - position: Software Development Engineer
     company_name: Amazon
