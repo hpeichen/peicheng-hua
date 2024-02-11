@@ -27,7 +27,7 @@ marketing:
     baidu: ''
 
 # Site header
-header:
+header: 'Peicheng Hua Personal Website'
   navbar:
     enable: true
     blox: floating-theme-toggler
