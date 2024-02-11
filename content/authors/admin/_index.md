@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Peicheng Hua
+title:Peicheng
 
 # Name pronunciation (optional)
 name_pronunciation: Peicheng Hua
