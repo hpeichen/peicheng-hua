@@ -3,7 +3,7 @@
 title: Peicheng Hua 华培成
 
 # Name pronunciation (optional)
-name_pronunciation: Peicheng Hua
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Peicheng
