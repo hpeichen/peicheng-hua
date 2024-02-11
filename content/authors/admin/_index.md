@@ -58,9 +58,8 @@ work:
     date_end: 2022-11-14
     summary: |
       Responsibilities include:
-      - Gather business and functional requirements from external and/or internal customers and end users, and
-translate requirements into technical specifications to build robust, scalable, supportable solutions that work
-well between a range of complex systems.
+      - Gather business and functional requirements from external and/or internal customers and end users,
+      - Translate requirements into technical specifications to build robust, scalable, supportable solutions.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
